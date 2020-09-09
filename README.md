@@ -1,2 +1,2 @@
 # NOP-commerce
-Python + Selenium automation framework
+Python + Selenium automation framework.
