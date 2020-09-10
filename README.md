@@ -69,9 +69,9 @@
 ### Getting Started
 
 *	Clone the repository
- &nbsp;&nbsp;	`git clone https://github.com/BatataWada1/NOP-commerce.git`
+ &nbsp;&nbsp;	`git clone https://github.com/BatataWada1/NOP-commerce.git`  or  **Download the zip file**
 *	Go to Configuration folder and edit the config.ini file
-* Go to nopcommerce\testCases and execute command
+* Go to nopcommerce\testCases and execute command from command prompt
 
 ### Commands to run
 
