@@ -1,0 +1,119 @@
+1597927348917	mozrunner::runner	INFO	Running command: "C:\\Users\\mandar_kulkarni1\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANDAR~1\\AppData\\Local\\Temp\\rust_mozprofileAcj9D5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597927367574	Marionette	INFO	Listening on port 52940
+1597927369923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597927376260	Marionette	INFO	Stopped listening on port 52940
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1597928216253	mozrunner::runner	INFO	Running command: "C:\\Users\\mandar_kulkarni1\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANDAR~1\\AppData\\Local\\Temp\\rust_mozprofile3YQxF5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597928221638	Marionette	INFO	Listening on port 54095
+1597928221751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597928245259	Marionette	INFO	Stopped listening on port 54095
+JavaScript error: https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012D,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0016,name=PNecko::Msg_PredLearn) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012D,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012D,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012D,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x39012D,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598349597080	mozrunner::runner	INFO	Running command: "C:\\Users\\mandar_kulkarni1\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANDAR~1\\AppData\\Local\\Temp\\rust_mozprofileWe5zW3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598349604692	Marionette	INFO	Listening on port 55297
+1598349607779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598349615485	Marionette	INFO	Stopped listening on port 55297
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1598349624523	mozrunner::runner	INFO	Running command: "C:\\Users\\mandar_kulkarni1\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANDAR~1\\AppData\\Local\\Temp\\rust_mozprofiledwnVOV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598349629738	Marionette	INFO	Listening on port 55405
+1598349630168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598349663883	Marionette	INFO	Stopped listening on port 55405
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599646426221	mozrunner::runner	INFO	Running command: "C:\\Users\\mandar_kulkarni1\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANDAR~1\\AppData\\Local\\Temp\\rust_mozprofilexF8Bqy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599646442503	Marionette	INFO	Listening on port 57370
+1599646442615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599646449851	Marionette	INFO	Stopped listening on port 57370
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599646458635	mozrunner::runner	INFO	Running command: "C:\\Users\\mandar_kulkarni1\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANDAR~1\\AppData\\Local\\Temp\\rust_mozprofileVQSYmc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599646464650	Marionette	INFO	Listening on port 63199
+1599646464707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599646499151	Marionette	INFO	Stopped listening on port 63199
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1599646848437	mozrunner::runner	INFO	Running command: "C:\\Users\\mandar_kulkarni1\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\MANDAR~1\\AppData\\Local\\Temp\\rust_mozprofilejvBCwE"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599646858792	Marionette	INFO	Listening on port 63868
+1599646870417	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599646898323	Marionette	INFO	Stopped listening on port 63871
+JavaScript error: https://admin-demo.nopcommerce.com/lib/jquery/jquery-3.4.1.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

@@ -1,0 +1,11 @@
+09-09-2020 06:26:57 PM : root : INFO  : Running test on Chrome browser
+09-09-2020 06:26:57 PM : root : INFO  : D:\chromedriver_win32\chromedriver.exe
+09-09-2020 06:26:57 PM : root : INFO  : Running test on Chrome browser
+09-09-2020 06:26:57 PM : root : INFO  : D:\chromedriver_win32\chromedriver.exe
+09-09-2020 06:27:03 PM : root : INFO  : RUN Started FOR Test_0001_Login
+09-09-2020 06:27:03 PM : root : INFO  : RUNNING TEST CASE : test_homePageTitle
+09-09-2020 06:27:03 PM : root : INFO  : Verifying home page title
+09-09-2020 06:27:03 PM : root : INFO  : RUNNING TEST CASE : test_login
+09-09-2020 06:27:03 PM : root : INFO  : Verifying User Login
+09-09-2020 06:27:06 PM : root : INFO  : TEST CASE : test_homePageTitle : PASSED
+09-09-2020 06:27:25 PM : root : INFO  : TEST CASE : test_login : PASSED

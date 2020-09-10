@@ -1,0 +1,7 @@
+25-08-2020 03:30:07 PM : root : INFO  : RUN Started FOR Test_0001_Login
+25-08-2020 03:30:07 PM : root : INFO  : RUNNING TEST CASE : test_homePageTitle
+25-08-2020 03:30:07 PM : root : INFO  : Verifying home page title
+25-08-2020 03:30:21 PM : root : INFO  : TEST CASE : test_homePageTitle : PASSED
+25-08-2020 03:30:30 PM : root : INFO  : RUNNING TEST CASE : test_login
+25-08-2020 03:30:30 PM : root : INFO  : Verifying User Login
+25-08-2020 03:31:10 PM : root : INFO  : TEST CASE : test_login : PASSED
