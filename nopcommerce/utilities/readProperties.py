@@ -2,7 +2,7 @@ import configparser
 
 config = configparser.RawConfigParser()
 print(config)
-config.read(r"C:\Users\mandar_kulkarni1\PycharmProjects\nopcommerce\Configurations\config.ini")
+config.read(r"..\Configurations\config.ini")
 
 class readConfig():
 
